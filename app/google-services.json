@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "428221871594",
+    "firebase_url": "https://strangerchat-5668d.firebaseio.com",
+    "project_id": "strangerchat-5668d",
+    "storage_bucket": "strangerchat-5668d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428221871594:android:46842551aa786dee3dae93",
+        "android_client_info": {
+          "package_name": "com.stranger.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428221871594-dreg97qdit5v0ufm8h6jam5jtsas8aql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7mfxzeVZwrgZeQVB51hqxPJHKRCpcDHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428221871594-dreg97qdit5v0ufm8h6jam5jtsas8aql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
